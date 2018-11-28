@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RECETAS_HONTEX", "RECETAS_HONTEX\RECETAS_HONTEX.csproj", "{F53C0C56-5E45-4565-911D-3A5CB6DD8ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F53C0C56-5E45-4565-911D-3A5CB6DD8ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53C0C56-5E45-4565-911D-3A5CB6DD8ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53C0C56-5E45-4565-911D-3A5CB6DD8ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53C0C56-5E45-4565-911D-3A5CB6DD8ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
